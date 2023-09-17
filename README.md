@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 <div align="center">
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=babo0121\&show_icons=true\&theme=default&title_color=4BD0AB&icon_color=52B19A#gh-light-mode-only)](https://github.com/yuzzin0121)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=babo0121\&show_icons=true\&theme=default&title_color=4BD0AB&icon_color=52B19A#gh-light-mode-only)(https://github.com/yuzzin0121)
 
 </div>
 
