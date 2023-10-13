@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yujin%20Jo%20/%20조%20유%20진%20&fontSize=50&fontAlignY=40&)
+<!---![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yujin%20Jo%20/%20조%20유%20진%20&fontSize=50&fontAlignY=40&)--->
 
 <!---
 y2hscmtk/y2hscmtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
