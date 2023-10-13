@@ -66,6 +66,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yuzzin0121\&show_icons=true\&theme=default&title_color=4BD0AB&icon_color=52B19A#gh-light-mode-only)](https://github.com/yuzzin0121)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gesal03&langs_count=5&layout=compact&theme=dark&hide=powershell,css,html,shell)](https://github.com/yuzzin0121/yuzzin0121)
+
+
 </div>
 
 <br>
