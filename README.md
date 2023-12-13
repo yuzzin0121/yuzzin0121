@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzzin0121&langs_count=5&layout=compact&theme=dark&hide=powershell,css,html,shell)](https://github.com/yuzzin0121/yuzzin0121)
 <br><br>
 <div>
-  <h3>Contact</h3>
+  <h3>💬 Contact</h3>
   <a href="https://baboyuj.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://kyumq.tistory.com/"/></a>&nbsp&nbsp
   <a href="mailto:ydbwlsjki60@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ydbwlsjki60@gmail.com"/></a>
 </div>
