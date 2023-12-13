@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />	
 </div> -->
 <div>
-	<h3>📚 Tech Stack 📚</h3>
+	<h3>📚 Tech Stack</h3>
 	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />&nbsp
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 <div>
-	<h3>🛠 Tools 🛠</h3>
+	<h3>🛠 Tools</h3>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />&nbsp
 	<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/><br>
